@@ -12,7 +12,7 @@ This is a simple movement reminder application that notifies you to stand up, mo
 ### Installation
 pip install win10toast
 
-Place the run_reminder.bat in the Autostart Folder C:\Users\<Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup if you want to autostart the app with windows
+Place the run_reminder.bat in the Autostart Folder C:\Users\ <Username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup if you want to autostart the app with windows
 
 ### Usage
 Run the application:
